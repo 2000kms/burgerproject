@@ -41,6 +41,6 @@ ___
 * **이산하**  
 역할: wiki page 관리  
 github ID : sanha33. 
-* **김민상**
+* **김민상**  
 역할: README.md page 관리  
 github ID : 21900094
