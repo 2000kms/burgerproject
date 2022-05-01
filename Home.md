@@ -8,6 +8,20 @@
 <h3>1. 소개</h3>
 
 <h3>2. 기능</h3>
-1. createBurger
-2. 
+1. createBurger. 
+
+2. readBurger. 
+3. updateBurger. 
+4. deleteBurger. 
+5. saveData. 
+6. loadData. 
+7. selectMenu. 
+8. listBurger. 
+9. searchName.  
+10. searchPrice. 
+11. searchBurger.   
+10 
 <h3>3. 협업</h3>
+* 개발일지  
+* commit convention
+* 프로젝트 참여자  
