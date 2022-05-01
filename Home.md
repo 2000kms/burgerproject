@@ -37,4 +37,10 @@ ___
 + chore: 빌드 관련 업무 수정
 
 ___
-3. 프로젝트 참여자  
+3. 프로젝트 참여자 <br>
+* **이산하**  
+역할: wiki page 관리  
+github ID : sanha33. 
+* **김민상**
+역할: README.md page 관리  
+github ID : 21900094
