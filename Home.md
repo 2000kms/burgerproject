@@ -48,9 +48,9 @@
 <h3>3. 협업</h3>  
 1. 개발일지 <br>    
 [9주차]
-(1) teamproject를 위한 organization 생성
-(2) teamproject를 위한 burgerproject repo 생성
-(3) 함수 정의, 구조체 및 header file 선언, README.md 파일 작성, wiki page 개설   
+(1) teamproject를 위한 organization 생성 <br>
+(2) teamproject를 위한 burgerproject repo 생성 <br>
+(3) 함수 정의, 구조체 및 header file 선언, README.md 파일 작성, wiki page 개설 <br>
 
 ___
 2. commit convention
