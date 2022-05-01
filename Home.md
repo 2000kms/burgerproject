@@ -23,7 +23,7 @@
 11. searchBurger.   
  
 <h3>3. 협업</h3>  
-1. 개발일지     
+1. 개발일지 <br>    
  9주차 : 함수 정의, 구조체 및 header file 선언, wiki page 개설   
 
 ___
