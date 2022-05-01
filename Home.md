@@ -47,7 +47,7 @@
  : 버거에 포함된 빵의 종류, 패티의 종류, 소스의 종류로 버거를 검색한다.  <br>
 <h3>3. 협업</h3>  
 1. 개발일지 <br>    
-[9주차]
+[9주차] <br>
 (1) teamproject를 위한 organization 생성 <br>
 (2) teamproject를 위한 burgerproject repo 생성 <br>
 (3) 함수 정의, 구조체 및 header file 선언, README.md 파일 작성, wiki page 개설 <br>
