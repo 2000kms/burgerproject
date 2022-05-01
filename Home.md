@@ -23,11 +23,11 @@
 11. searchBurger.   
  
 <h3>3. 협업</h3>
-* 개발일지  
-+ 9주차 : 함수 정의, 구조체 및 header file 선언, wiki page 개설 
+1. 개발일지    
+ 9주차 : 함수 정의, 구조체 및 header file 선언, wiki page 개설   
 
 ___
-* commit convention
+2. commit convention
 + feat: 새로운 기능 추가   
 + fix: 버그 픽스   
 + docs: 문서 수정  
@@ -37,4 +37,4 @@ ___
 + chore: 빌드 관련 업무 수정
 
 ___
-* 프로젝트 참여자  
+3. 프로젝트 참여자  
