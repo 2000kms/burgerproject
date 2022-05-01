@@ -9,45 +9,45 @@
 <h3>1. 소개</h3>
 
 <h3>2. 기능</h3>
-1. createBurger.    
-새로운 버거를 새로 생성한다.   
-이름, 가격을 새로 설정하고,    
-빵의 종류, 패티 종류, 소스 종류를 정한다.    
-2. readBurger.      
-버거 1개의 정보를 읽어들인다.       
-또한 readBurger를 실행하면,      
-이름, 가격      
-**버거{  
-빵  
-마요네즈  
-양상추  
-토마토  
-양파  
-소스  
-패티    
-기타재료  
-빵  
+1. createBurger.    <br>
+새로운 버거를 새로 생성한다.   <br>
+이름, 가격을 새로 설정하고,    <br>
+빵의 종류, 패티 종류, 소스 종류를 정한다.  <br>  
+2. readBurger.      <br>
+버거 1개의 정보를 읽어들인다. <br>      
+또한 readBurger를 실행하면,      <br>
+이름, 가격      <br>
+**버거{  <br>
+빵  <br>
+마요네즈  <br>
+양상추  <br>
+토마토  <br>
+양파  <br>
+소스  <br>
+패티    <br>
+기타재료  <br>
+빵  <br>
 }**  
-위의 글처럼 직관적으로 버거에 포함된 메뉴를 알 수 있다.
-3. updateBurger.  
- 버거의 가격,이름, 빵, 소스, 패티를 수정할 수 있다.  
-4. deleteBurger.  
-버거 1개의 정보를 삭제한다.  
-5. saveData. 
-현재 저장된 버거들의 정보를 burger.txt 파일에 저장한다.  
-6. loadData.  
-burger.txt 파일에 저장된 버거들의 정보를 읽어들인다.  
-7. selectMenu.  
-crud,save,load,search 등 여러가지 명령을 실행할 수 있다.  
-8. listBurger.  
-모든 버거들의 정보를 출력한다.  
-9. searchName.  
-버거의 이름을 검색한다.  
-검색한 문자열이 포함된 버거를 모두 검색한다.    
-10. searchPrice.  
-사용자가 입력한 2개의 가격 사이에 있는 모든 버거를 모두 검색한다.   
-11. searchBurger.     
- 버거에 포함된 빵의 종류, 패티의 종류, 소스의 종류로 버거를 검색한다.  
+위의 글처럼 직관적으로 버거에 포함된 메뉴를 알 수 있다. <br>
+3. updateBurger.  <br>
+ 버거의 가격,이름, 빵, 소스, 패티를 수정할 수 있다.  <br>
+4. deleteBurger.  <br>
+버거 1개의 정보를 삭제한다. <br> 
+5. saveData. <br>
+현재 저장된 버거들의 정보를 burger.txt 파일에 저장한다.  <br>
+6. loadData.  <br>
+burger.txt 파일에 저장된 버거들의 정보를 읽어들인다. <br> 
+7. selectMenu.  <br>
+crud,save,load,search 등 여러가지 명령을 실행할 수 있다. <br> 
+8. listBurger.  <br>
+모든 버거들의 정보를 출력한다.  <br>
+9. searchName.  <br>
+버거의 이름을 검색한다.  <br>
+검색한 문자열이 포함된 버거를 모두 검색한다. <br>   
+10. searchPrice.  <br>
+사용자가 입력한 2개의 가격 사이에 있는 모든 버거를 모두 검색한다. <br>  
+11. searchBurger.     <br>
+ 버거에 포함된 빵의 종류, 패티의 종류, 소스의 종류로 버거를 검색한다.  <br>
 <h3>3. 협업</h3>  
 1. 개발일지 <br>    
  9주차 : 함수 정의, 구조체 및 header file 선언, wiki page 개설   
