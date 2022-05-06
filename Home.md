@@ -1,5 +1,5 @@
 <h3>0. Home</h3>
-내 손 안에서 언제든 버거를 만들고, 수정하고, 보고, 지울 수 있다면 얼마나 좋을까요 ?  
+   내 손 안에서 언제든 버거를 만들고, 수정하고, 보고, 지울 수 있다면 얼마나 좋을까요 ?  
 '내손안의 버거킹' 서비스,   **BURGER PROJECT!**
 
 <h2>📝 목차 📝</h2>
@@ -58,24 +58,28 @@
 (1) teamproject를 위한 organization 생성 <br>
 (2) teamproject를 위한 burgerproject repo 생성 <br>
 (3) 함수 정의, 구조체 및 header file 선언, README.md 파일 작성, wiki page 개설 <br><br>
-2) 개발 일정 및 계획 <br>
-[9주차] 
-(1) 주제 선정 및 기획 
-(2) 함수 정의
-[10주차] 
-(1) createBurger(), readBurger(), updateBurger(), deleteBurger() 함수 구현
-(2) README.md 파일 작성
-(3) Wiki page 작성
-(4) 
-[11주차]
+2) 개발 일정 및 계획 <br><br>
+[9주차] <br>
+(1) 주제 선정 및 기획 <br>
+(2) 함수 정의<br><br>
+[10주차] <br>
+(1) 데이터 정의
+(2) createBurger(), readBurger(), updateBurger(), deleteBurger(), listBurger(), selectMenu() 함수 구현<br>
+(3) README.md 파일 작성<br>
+(4) Wiki page 작성<br> 
+<br><br>
+[11주차]<br>
+(1) savaData(), loadData(), searchName(), searchPrice(), searchBurger() 함수 구현 <br>
+(2) 더 세부적인 searchBurger()함수 기능 추가 <br>
+(3) 전반적인 project 마무리 <br><br>
 3) commit convention <br>
-+ feat: 새로운 기능 추가   
-+ fix: 버그 픽스   
-+ docs: 문서 수정  
-+ style: 포맷,  세미콜론 수정, Optimize import, Code clean up 등 코드가 아닌 스타일에 관련된 수정   
-+ refactor: 코드 리펙토링  
-+ test: 테스트 코드 추가  
-+ chore: 빌드 관련 업무 수정
++ feat: 새로운 기능 추가 <br>  
++ fix: 버그 픽스   <br>
++ docs: 문서 수정  <br>
++ style: 포맷,  세미콜론 수정, Optimize import, Code clean up 등 코드가 아닌 스타일에 관련된 수정  <br> 
++ refactor: 코드 리펙토링  <br>
++ test: 테스트 코드 추가  <br>
++ chore: 빌드 관련 업무 수정<br>
 <br>
 
 3. 프로젝트 참여자 <br>
